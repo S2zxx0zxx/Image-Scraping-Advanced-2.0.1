@@ -1,0 +1,123 @@
+archive=End-to-End-Image-Scraping-main.zip
+valid_zip=True
+first_bad_member=
+member_count=117
+
+size	compressed	crc32	path
+0	0	00000000	End-to-End-Image-Scraping-main/
+3094	1483	695ee5b7	End-to-End-Image-Scraping-main/.gitignore
+39488	8299	b5dfffc5	End-to-End-Image-Scraping-main/Image Scraper.ipynb
+35149	12112	97673d00	End-to-End-Image-Scraping-main/LICENSE
+2597	1314	d48ebeb7	End-to-End-Image-Scraping-main/README.md
+3399	1440	4c3e6e78	End-to-End-Image-Scraping-main/app.py
+0	0	00000000	End-to-End-Image-Scraping-main/images/
+3002	2978	6e89a60e	End-to-End-Image-Scraping-main/images/Elon Musk_0.jpg
+2820	2794	11819a1e	End-to-End-Image-Scraping-main/images/Elon Musk_1.jpg
+3202	3180	25312521	End-to-End-Image-Scraping-main/images/Elon Musk_10.jpg
+3718	3685	0c16f94a	End-to-End-Image-Scraping-main/images/Elon Musk_11.jpg
+4859	4832	481f13f5	End-to-End-Image-Scraping-main/images/Elon Musk_12.jpg
+3081	3052	789ab951	End-to-End-Image-Scraping-main/images/Elon Musk_13.jpg
+4890	4854	52243e19	End-to-End-Image-Scraping-main/images/Elon Musk_14.jpg
+3691	3655	94b86af1	End-to-End-Image-Scraping-main/images/Elon Musk_15.jpg
+3434	3407	fa5f58b8	End-to-End-Image-Scraping-main/images/Elon Musk_16.jpg
+3276	3253	264bd94f	End-to-End-Image-Scraping-main/images/Elon Musk_17.jpg
+3666	3636	a4a8deca	End-to-End-Image-Scraping-main/images/Elon Musk_18.jpg
+3314	3282	7a2372d0	End-to-End-Image-Scraping-main/images/Elon Musk_19.jpg
+2955	2922	bc8f0a29	End-to-End-Image-Scraping-main/images/Elon Musk_2.jpg
+2689	2655	94d312f2	End-to-End-Image-Scraping-main/images/Elon Musk_3.jpg
+2637	2600	38cf14d7	End-to-End-Image-Scraping-main/images/Elon Musk_4.jpg
+1913	1880	79495963	End-to-End-Image-Scraping-main/images/Elon Musk_5.jpg
+3873	3851	26e11045	End-to-End-Image-Scraping-main/images/Elon Musk_6.jpg
+2593	2540	044b8964	End-to-End-Image-Scraping-main/images/Elon Musk_7.jpg
+4462	4434	cd8ba18c	End-to-End-Image-Scraping-main/images/Elon Musk_8.jpg
+3986	3949	a29c8a9e	End-to-End-Image-Scraping-main/images/Elon Musk_9.jpg
+2421	2421	2bf27dec	End-to-End-Image-Scraping-main/images/ISRO_0.jpg
+3597	3574	54d3447b	End-to-End-Image-Scraping-main/images/ISRO_1.jpg
+4216	4187	85f38afe	End-to-End-Image-Scraping-main/images/ISRO_10.jpg
+5220	5170	baac0b96	End-to-End-Image-Scraping-main/images/ISRO_11.jpg
+3293	3261	684bea7e	End-to-End-Image-Scraping-main/images/ISRO_12.jpg
+5910	5886	febc9359	End-to-End-Image-Scraping-main/images/ISRO_13.jpg
+3946	3808	c422917d	End-to-End-Image-Scraping-main/images/ISRO_14.jpg
+3352	3321	2449b8d3	End-to-End-Image-Scraping-main/images/ISRO_15.jpg
+5100	5073	a3ee5f13	End-to-End-Image-Scraping-main/images/ISRO_16.jpg
+6214	6187	83919303	End-to-End-Image-Scraping-main/images/ISRO_17.jpg
+3692	3663	294ed29c	End-to-End-Image-Scraping-main/images/ISRO_18.jpg
+4567	4535	d1bbb901	End-to-End-Image-Scraping-main/images/ISRO_19.jpg
+2427	2405	69eda6e1	End-to-End-Image-Scraping-main/images/ISRO_2.jpg
+4565	4530	8308285d	End-to-End-Image-Scraping-main/images/ISRO_3.jpg
+3612	3582	f43cdc44	End-to-End-Image-Scraping-main/images/ISRO_4.jpg
+3743	3721	8755fc00	End-to-End-Image-Scraping-main/images/ISRO_5.jpg
+1489	1453	23053e63	End-to-End-Image-Scraping-main/images/ISRO_6.jpg
+3550	3523	0f4334cd	End-to-End-Image-Scraping-main/images/ISRO_7.jpg
+2975	2943	aeb8eba9	End-to-End-Image-Scraping-main/images/ISRO_8.jpg
+3211	3180	f5451b88	End-to-End-Image-Scraping-main/images/ISRO_9.jpg
+4949	4925	5ac627d2	End-to-End-Image-Scraping-main/images/Ironman_0.jpg
+3754	3740	b4798a54	End-to-End-Image-Scraping-main/images/Ironman_1.jpg
+4314	4287	84a8bda9	End-to-End-Image-Scraping-main/images/Ironman_10.jpg
+4904	4881	1dbe6e80	End-to-End-Image-Scraping-main/images/Ironman_11.jpg
+2681	2642	01ee17b5	End-to-End-Image-Scraping-main/images/Ironman_12.jpg
+4368	4341	b9a8e0f3	End-to-End-Image-Scraping-main/images/Ironman_13.jpg
+3297	3199	7c073b72	End-to-End-Image-Scraping-main/images/Ironman_14.jpg
+3281	3250	fe7dd5b5	End-to-End-Image-Scraping-main/images/Ironman_15.jpg
+3276	3248	da51ac1d	End-to-End-Image-Scraping-main/images/Ironman_16.jpg
+5152	5120	7c081221	End-to-End-Image-Scraping-main/images/Ironman_17.jpg
+4636	4608	f406a00a	End-to-End-Image-Scraping-main/images/Ironman_18.jpg
+2903	2879	343ba2b2	End-to-End-Image-Scraping-main/images/Ironman_19.jpg
+3220	3181	6e90d0fb	End-to-End-Image-Scraping-main/images/Ironman_2.jpg
+3925	3895	bcc92a35	End-to-End-Image-Scraping-main/images/Ironman_3.jpg
+8338	8311	7e2f1278	End-to-End-Image-Scraping-main/images/Ironman_4.jpg
+2768	2730	824c0333	End-to-End-Image-Scraping-main/images/Ironman_5.jpg
+5269	5245	d59b6853	End-to-End-Image-Scraping-main/images/Ironman_6.jpg
+3601	3571	5a666dc3	End-to-End-Image-Scraping-main/images/Ironman_7.jpg
+2805	2775	d7bdaa49	End-to-End-Image-Scraping-main/images/Ironman_8.jpg
+3765	3738	1b67ba5a	End-to-End-Image-Scraping-main/images/Ironman_9.jpg
+5602	5578	54d92893	End-to-End-Image-Scraping-main/images/SHEHULK_0.jpg
+4979	4952	5ca1d227	End-to-End-Image-Scraping-main/images/SHEHULK_1.jpg
+3551	3522	7fcd4bb7	End-to-End-Image-Scraping-main/images/SHEHULK_10.jpg
+2044	2012	4e364bff	End-to-End-Image-Scraping-main/images/SHEHULK_11.jpg
+4236	4203	10f73aed	End-to-End-Image-Scraping-main/images/SHEHULK_12.jpg
+4130	4107	4a54dc0f	End-to-End-Image-Scraping-main/images/SHEHULK_13.jpg
+5055	5026	82e91a49	End-to-End-Image-Scraping-main/images/SHEHULK_14.jpg
+6427	6384	35ac9c0f	End-to-End-Image-Scraping-main/images/SHEHULK_15.jpg
+3944	3919	9da25eee	End-to-End-Image-Scraping-main/images/SHEHULK_16.jpg
+2588	2560	d3268203	End-to-End-Image-Scraping-main/images/SHEHULK_17.jpg
+2759	2714	8955553f	End-to-End-Image-Scraping-main/images/SHEHULK_18.jpg
+2966	2942	7a6bab5e	End-to-End-Image-Scraping-main/images/SHEHULK_19.jpg
+5450	5367	3c236658	End-to-End-Image-Scraping-main/images/SHEHULK_2.jpg
+4066	4033	393da462	End-to-End-Image-Scraping-main/images/SHEHULK_3.jpg
+4228	4201	c95cfd8d	End-to-End-Image-Scraping-main/images/SHEHULK_4.jpg
+3241	3210	701b28b6	End-to-End-Image-Scraping-main/images/SHEHULK_5.jpg
+4597	4560	5a681c33	End-to-End-Image-Scraping-main/images/SHEHULK_6.jpg
+3768	3745	ad230460	End-to-End-Image-Scraping-main/images/SHEHULK_7.jpg
+4186	4160	d2da9d8e	End-to-End-Image-Scraping-main/images/SHEHULK_8.jpg
+5708	5681	21fa5e58	End-to-End-Image-Scraping-main/images/SHEHULK_9.jpg
+3943	3916	43a1a6a8	End-to-End-Image-Scraping-main/images/hulk_0.jpg
+3746	3716	0524ca87	End-to-End-Image-Scraping-main/images/hulk_1.jpg
+3496	3470	cea7f57f	End-to-End-Image-Scraping-main/images/hulk_10.jpg
+4434	4405	3cca2e75	End-to-End-Image-Scraping-main/images/hulk_11.jpg
+3882	3855	25261f05	End-to-End-Image-Scraping-main/images/hulk_12.jpg
+3658	3630	124f40a3	End-to-End-Image-Scraping-main/images/hulk_13.jpg
+6754	6728	51741c9c	End-to-End-Image-Scraping-main/images/hulk_14.jpg
+2797	2764	49ad7c06	End-to-End-Image-Scraping-main/images/hulk_15.jpg
+2690	2661	58114630	End-to-End-Image-Scraping-main/images/hulk_16.jpg
+3994	3968	a873ab10	End-to-End-Image-Scraping-main/images/hulk_17.jpg
+4254	4228	099e4857	End-to-End-Image-Scraping-main/images/hulk_18.jpg
+3415	3391	f396d796	End-to-End-Image-Scraping-main/images/hulk_19.jpg
+5290	5265	c7145e7e	End-to-End-Image-Scraping-main/images/hulk_2.jpg
+3139	3109	9bdba6c1	End-to-End-Image-Scraping-main/images/hulk_3.jpg
+3172	3147	0f10440a	End-to-End-Image-Scraping-main/images/hulk_4.jpg
+2722	2689	8e6832da	End-to-End-Image-Scraping-main/images/hulk_5.jpg
+4462	4437	0de70749	End-to-End-Image-Scraping-main/images/hulk_6.jpg
+4115	4090	86b0704e	End-to-End-Image-Scraping-main/images/hulk_7.jpg
+4665	4636	ae802795	End-to-End-Image-Scraping-main/images/hulk_8.jpg
+3298	3272	3f82aff9	End-to-End-Image-Scraping-main/images/hulk_9.jpg
+37	36	d378ffd0	End-to-End-Image-Scraping-main/requirements.txt
+0	0	00000000	End-to-End-Image-Scraping-main/static/
+0	0	00000000	End-to-End-Image-Scraping-main/static/css/
+11381	5808	074db0a4	End-to-End-Image-Scraping-main/static/css/Screenshot 2023-08-03 214154.png
+1357	536	fcda856a	End-to-End-Image-Scraping-main/static/css/main.css
+1357	543	8bf3508d	End-to-End-Image-Scraping-main/static/css/style.css
+0	0	00000000	End-to-End-Image-Scraping-main/templates/
+384	250	d2b70a55	End-to-End-Image-Scraping-main/templates/base.html
+915	448	0fb8ff0e	End-to-End-Image-Scraping-main/templates/index.html
+1001	424	4c369f62	End-to-End-Image-Scraping-main/templates/result.html
